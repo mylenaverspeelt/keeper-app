@@ -3,6 +3,10 @@
 A simple notepad app made using React and MaterialUI.
 Inspired on Google Keep :)
 
+
+<img src="./public/read-me-img.png"/>
+
+
 ## Step 1 - Dependencies
 
 You will need:
@@ -22,7 +26,7 @@ $ git clone https://github.com/mylenaverspeelt/keeper-app.git
 
 ## Step 3 - Run the app
 
-Once the dependencies are installed, you can run the app:
+Once the dependencies are installed (npm install), you can run the app:
 
 ```sh
 cd keeper-app
