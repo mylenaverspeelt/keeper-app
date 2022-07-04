@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A simple notepad app made using React and MaterialUI.\r Inspired on Google Keep :)",
+  "author": "",
+  "license": "ISC"
 }
